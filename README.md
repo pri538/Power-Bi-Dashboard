@@ -1,2 +1,2 @@
 # Power-Bi-Dashboard
-Power Bi Projects
+Salary Data Comparison 
